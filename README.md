@@ -28,18 +28,28 @@ El reporte está diseñado para guiar al usuario desde una visión general hasta
 
 ### 1. Resumen Ejecutivo
 Visión de alto nivel con KPIs de Ventas USD, evolución mensual frente a la meta y distribución territorial.
+![Resumen Ejecutivo](img/SellOutConsumoHogaresOptimized_page-0002.jpg)
 
 ### 2. Análisis de Sell Out
 Identificación de los motores del negocio: productos líderes (Top 10), desempeño de marcas y crecimiento por categorías.
+![Análisis de Sell Out](img/SellOutConsumoHogaresOptimized_page-0003.jpg)
 
-### 3. Alineación del Mercado (Núcleo Estratégico)
-Comparativa entre el **Share de Ventas vs. Share de Gasto** del consumidor. Esta sección permite detectar dónde la demanda del mercado supera la oferta de la empresa (Índice de Oportunidad).
-
-### 4. Desempeño vs. Objetivos
+### 3. Desempeño vs. Objetivos
 Evaluación operativa por tienda para identificar brechas de cumplimiento y priorizar acciones comerciales.
+![Desempeño vs. Objetivos](img/SellOutConsumoHogaresOptimized_page-0004.jpg)
+
+### 4. Alineación del Mercado (Núcleo Estratégico)
+Comparativa entre el **Share de Ventas vs. Share de Gasto** del consumidor. Esta sección permite detectar dónde la demanda del mercado supera la oferta de la empresa (Índice de Oportunidad).
+![Alineación del Mercado (Núcleo Estratégico)](img/SellOutConsumoHogaresOptimized_page-0005.jpg)
 
 ### 5. Exploración Avanzada (Drill-Through)
 Páginas de detalle que permiten "navegar" desde un gráfico agregado hasta el nivel de SKU o transacción mensual, asegurando la trazabilidad total de los datos.
+
+![Exploración Avanzada (Drill-Through 1)](img/Screenshot 2026-04-08 205921.jpg)
+
+![Exploración Avanzada (Drill-Through 2)](img/Screenshot 2026-04-08 205947.jpg)
+
+![Exploración Avanzada (Drill-Through 3)](img/Screenshot 2026-04-08 210030.jpg)
 
 ---
 
