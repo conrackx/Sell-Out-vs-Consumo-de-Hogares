@@ -66,6 +66,6 @@ Páginas de detalle que permiten "navegar" desde un gráfico agregado hasta el n
 ---
 
 ## 📂 Contenido del Repositorio
-* `Informe Analítico BI.pdf`: Documentación técnica detallada del desarrollo.
-* `Ejercicio Práctico.pdf`: Requerimientos originales de la prueba.
+* `025 Informe Analítico.md`: Documentación técnica detallada del desarrollo.
+* `Ejercicio Práctico de Analista de Business Intelligence.pdf`: Requerimientos originales de la prueba.
 * `SellOutConsumoHogaresOptimized.pbix`: Archivo de Power BI (incluye modelo y visualizaciones).
