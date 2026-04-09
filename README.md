@@ -45,11 +45,11 @@ Comparativa entre el **Share de Ventas vs. Share de Gasto** del consumidor. Esta
 ### 5. Exploración Avanzada (Drill-Through)
 Páginas de detalle que permiten "navegar" desde un gráfico agregado hasta el nivel de SKU o transacción mensual, asegurando la trazabilidad total de los datos.
 
-![Exploración Avanzada (Drill-Through 1)](img/Screenshot 2026-04-08 205921.jpg)
+![Exploración Avanzada (Drill-Through 1)](img/Screenshot2026-04-08205921.jpg)
 
-![Exploración Avanzada (Drill-Through 2)](img/Screenshot 2026-04-08 205947.jpg)
+![Exploración Avanzada (Drill-Through 2)](img/Screenshot2026-04-08205947.jpg)
 
-![Exploración Avanzada (Drill-Through 3)](img/Screenshot 2026-04-08 210030.jpg)
+![Exploración Avanzada (Drill-Through 3)](img/Screenshot2026-04-08210030.jpg)
 
 ---
 
