@@ -19,6 +19,11 @@ El modelo se diseñó bajo un esquema en estrella para garantizar el rendimiento
 * **Tablas de Hechos:** Sell Out (ventas por tienda/producto), Consumo de Hogares y Objetivos Comerciales.
 * **Tablas de Dimensiones:** Productos (con jerarquías completas), Tiendas (geografía) y una tabla de Calendario estandarizada.
 
+![Model1](img/model1.png)
+![Model2](img/model2.png)
+![Model3](img/model3.png)
+![Model4](img/model4.png)
+
 > **Nota Técnica:** Se resolvió la desconexión física de los objetivos anuales mediante el despivotado de columnas y lógica DAX, permitiendo análisis de cumplimiento mensual y acumulado (YTD) sin comprometer la integridad del modelo.
 
 ---
@@ -61,6 +66,6 @@ Páginas de detalle que permiten "navegar" desde un gráfico agregado hasta el n
 ---
 
 ## 📂 Contenido del Repositorio
-* `Informe Analítico BI.pdf`: Documentación técnica detallada del desarrollo.
-* `Ejercicio Práctico.pdf`: Requerimientos originales de la prueba.
+* `025 Informe Analítico.md`: Documentación técnica detallada del desarrollo.
+* `Ejercicio Práctico de Analista de Business Intelligence.pdf`: Requerimientos originales de la prueba.
 * `SellOutConsumoHogaresOptimized.pbix`: Archivo de Power BI (incluye modelo y visualizaciones).
